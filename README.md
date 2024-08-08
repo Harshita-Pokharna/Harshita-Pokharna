@@ -1,12 +1,9 @@
 ![image](https://rte.mx/wp-content/uploads/2020/05/LinesCreatives_animation-9.gif)
 
-
-<!---
-Harshita-Pokharna/Harshita-Pokharna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Harshita</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Harshita-Pokharna](https://github.com/Harshita-Pokharna)
 
 - 📫 How to reach me **pokharnaharshita@gmail.com**
 
